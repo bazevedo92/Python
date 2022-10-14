@@ -5,6 +5,7 @@ list = []
     for c in range(5):
     valor = input("Digite uma nota: ")
     list.append(valor)
+print(list)
 
 
 
